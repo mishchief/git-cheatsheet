@@ -6,7 +6,7 @@ Just a cheatsheet for me while I get a hold of git commands
 git clone -b **< branch >** --single-branch **< url >** [Additionally: --depth **< number of commits >**]
 
 
-##**MAKE CHANGES**
+## **MAKE CHANGES**
 
 Review edits and craft a commit transaction
 
@@ -34,7 +34,7 @@ $ git commit -m "[descriptive message]"
 
 Records file snapshots permanently in version history
 
-##**GROUP CHANGES**
+## **GROUP CHANGES**
 
 Name a series of commits and combine completed efforts
 
